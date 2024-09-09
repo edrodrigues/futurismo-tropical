@@ -342,7 +342,7 @@ Esses são apenas alguns dos métodos usados ​​no Futurismo. A melhor aborda
 * **Capítulo 10: Competições de Incentivo: Consiga o Melhor e Mais Brilhante para Ajudar a Resolver Seus Desafios:** Explora a história, os benefícios e os principais parâmetros de design de competições de incentivo. Usa exemplos como o Ansari XPRIZE e o Prêmio Netflix para demonstrar sua eficácia em impulsionar a inovação e resolver grandes desafios.
 
 ### Nick Bolstrom
-#### ## Resumo dos Capítulos de "Superintelligence: Paths, Dangers, Strategies":
+#### Resumo dos Capítulos de "Superintelligence: Paths, Dangers, Strategies":
 
 **Capítulo 1: Desenvolvimentos Passados e Capacidades Presentes:** Prepara o terreno discutindo os modos de crescimento histórico e como os avanços tecnológicos estão acelerando rapidamente. Apresenta o conceito de "explosão de inteligência" e seu potencial para progresso e perigo.
 
@@ -375,7 +375,7 @@ Esses são apenas alguns dos métodos usados ​​no Futurismo. A melhor aborda
 **Capítulo 15: Hora da Verdade:** Conclui pedindo foco em problemas urgentes e importantes, especialmente aqueles relacionados ao problema do controle, e na construção de uma base sólida de especialização e recursos para enfrentar os desafios da próxima explosão de inteligência.
 
 ### Yuval Harari
-#### ## Resumo dos Capítulos de "Homo Deus: Uma Breve História do Amanhã":
+#### Resumo dos Capítulos de "Homo Deus: Uma Breve História do Amanhã":
 
 **Parte I: Homo Sapiens Conquista o Mundo**
 
@@ -400,7 +400,7 @@ Esses são apenas alguns dos métodos usados ​​no Futurismo. A melhor aborda
 "Homo Deus" oferece uma exploração instigante e desafiadora do futuro da humanidade. Ele nos incentiva a considerar as consequências potenciais de nossas trajetórias atuais e a examinar cuidadosamente nossos valores e suposições à medida que entramos em uma era de poder tecnológico sem precedentes.
 
 ### Ray Kurzweil
-###### Resumo dos Capítulos de "A Singularidade Está Mais Próxima: Quando Nos Fundimos com a IA":
+#### Resumo dos Capítulos de "A Singularidade Está Mais Próxima: Quando Nos Fundimos com a IA":
 
 **Introdução:** Define o contexto do livro, revisitando a tese central de "A Singularidade Está Próxima" e explicando por que agora é o momento certo para uma continuação que se concentra nos últimos passos para a singularidade.
 
