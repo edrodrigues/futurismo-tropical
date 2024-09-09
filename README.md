@@ -1,4 +1,6 @@
 # Futurismo Tropical
+![Recife em 2050](https://ibb.co/fYB1Wzq)
+
 
 ## Autores
 Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo CIn/UFPE. Email: ernj@cin.ufpe.br 
@@ -265,7 +267,6 @@ These are just some of the methods used in Futurism. The best approach will depe
 This summary provides a general overview of each chapter. For a more in-depth understanding, reading the corresponding chapters in each book is recommended. 
 
 #### BOLD
-Bold: 
 
 **Part 1: Bold Technology**
 
