@@ -2,12 +2,11 @@
 
 ![Recife em 2050](https://github.com/user-attachments/assets/13f427aa-c513-4f93-a9d6-d291f066afb5)
 
-## Autores
-Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo CIn/UFPE. Email: ernj@cin.ufpe.br 
-
-## Sobre o Projeto 
+## Sobre
 
 Projeto Open Source para "tropicalizar" o conhecimento sobre Futurismo para o público brasileiro e começar a desenvolver o campo do "futurismo à brasileira", ou futurismo tropical. 
+### Autores
+Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo CIn/UFPE. Email: ernj@cin.ufpe.br 
 
 #### Método de elaboração 
 
@@ -62,7 +61,7 @@ Here are some of the key exponential technologies:
 
 These exponential technologies are interconnected and reinforce each other, driving a wave of rapid and disruptive change across all industries and aspects of society. 
 
-## Future Forecasting
+### Future Forecasting
 
 Future Forecasting and Scenario Planning are essential tools for navigating uncertainty and making strategic decisions in a rapidly changing world. While they share the common goal of anticipating the future, they employ different approaches and serve distinct purposes. Future Forecasting aims to predict **the most likely future** based on current trends and historical data. It relies on quantitative and qualitative methods to analyze patterns, extrapolate trends, and identify potential future outcomes.
 
@@ -89,7 +88,7 @@ Future Forecasting and Scenario Planning are essential tools for navigating unce
 * **Black swan events:**  Fails to account for highly improbable but high-impact events (black swans).
 * **Linear bias:**  Tends to project current trends linearly, failing to capture the potential for exponential growth or disruptive innovation.
 
-## Scenario Planning:
+### Scenario Planning:
 
 Scenario planning explores a range of **plausible future scenarios**, including those that are unexpected or disruptive. It focuses on identifying key uncertainties and developing alternative narratives of how the future might unfold.
 
@@ -118,7 +117,7 @@ Scenario planning explores a range of **plausible future scenarios**, including 
 * **Subjective:**  Scenarios are based on subjective judgments and assumptions about the future. 
 * **Complex:**  Developing and analyzing multiple scenarios can be a complex and time-consuming process.
   
-## "The Singularity"
+### "The Singularity"
 
 Drawing from both "Superintelligence" and "The Singularity is Nearer" by Ray Kurzweil, the singularity is a hypothetical future point in time where artificial intelligence (AI) surpasses human intelligence, leading to an unprecedented and transformative period of rapid technological advancement and societal change. 
 
@@ -157,7 +156,7 @@ Here are the key points of Harari's concept:
 
 The "Ocean of Consciousness" metaphor challenges us to recognize the limitations of our current understanding of the mind and to consider the possibility that there are vast realms of subjective experience that we have yet to explore. It suggests that the future of consciousness may be far more diverse and expansive than we can currently imagine, potentially shaped by both the evolution of our own brains and the development of powerful new technologies. 
 
-## Métodos de Aplicação do Futurismo
+## Métodos de Aplicação
 
 Futurism methods are structured approaches used to envision and analyze potential future scenarios, helping individuals and organizations make better informed decisions and prepare for change. These methods combine various techniques, data analysis, and creative thinking to explore the possibilities and uncertainties of the future.
 
