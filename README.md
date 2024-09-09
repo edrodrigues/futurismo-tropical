@@ -320,9 +320,7 @@ Esses são apenas alguns dos métodos usados ​​no Futurismo. A melhor aborda
 * **Capítulo 18: Risco e Fracasso:** Explora a importância de abraçar o risco e o fracasso como elementos cruciais da inovação e do progresso.
 * **Capítulo 19: Qual o Próximo Passo?:** Conclui o livro examinando cenários futuros potenciais e enfatizando a importância da ação individual e do esforço coletivo na construção de um futuro de abundância.
 
-#### BOLD
-
-## Resumo dos Capítulos de "Bold: How to Go Big, Create the Future, and Achieve Things Others Say Are Impossible":
+#### Resumo dos Capítulos de "Bold: How to Go Big, Create the Future, and Achieve Things Others Say Are Impossible":
 
 **Parte 1: Tecnologia Ousada**
 
