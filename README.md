@@ -420,7 +420,7 @@ Esses são apenas alguns dos métodos usados ​​no Futurismo. A melhor aborda
 
 **Capítulo 8: Diálogo com Cassandra:** Uma conversa fictícia entre Kurzweil e um personagem cético, Cassandra, explorando ansiedades e objeções em torno da superinteligência, o futuro do trabalho e a fusão de humanos com IA. Kurzweil oferece contrapontos baseados em sua visão otimista do futuro.
 
-## Abordagem de Previsão do Futuro de Kurzweil:
+#### Abordagem de Previsão do Futuro de Kurzweil:
 
 Com base em "A Singularidade Está Mais Próxima", a abordagem de Ray Kurzweil para previsão do futuro pode ser descrita como **extrapolação de tendências impulsionada pela tecnologia**. É um método de prever desenvolvimentos futuros analisando tendências históricas no progresso tecnológico, particularmente no domínio das tecnologias da informação, e extrapolando essas tendências para o futuro.
 
