@@ -345,7 +345,7 @@ Here is a chapter-by-chapter summary of the two books, focusing on their core ar
 
 **Part III: Homo Sapiens Loses Control**
 
-* **Chapter 8: The Time Bomb in the Laboratory:** This chapter examines the challenges to liberalism posed by twenty-first-century science, particularly biotechnology and artificial intelligence. Harari argues that as technology progresses, humans![Tropical Futurism](https://github.com/user-attachments/assets/1b7b22a7-53c9-4f4a-a932-44abc07e9f18)
+* **Chapter 8: The Time Bomb in the Laboratory:** This chapter examines the challenges to liberalism posed by twenty-first-century science, particularly biotechnology and artificial intelligence. Harari argues that as technology progresses, humans
  may lose their economic and military usefulness, leading to a decline in individual value and potentially resulting in a new hierarchy dominated by upgraded superhumans or algorithms. 
 * **Chapter 9: The Great Decoupling:**  Harari explores the potential decoupling of intelligence from consciousness, arguing that as AI develops, non-conscious but highly intelligent algorithms may surpass human capabilities. This raises questions about the future of work, the relevance of human experience, and the very definition of intelligence.
 * **Chapter 10: The Ocean of Consciousness:** The chapter explores the emerging religion of Dataism, which sees the universe as a flow of data and values information processing above all else.  Harari presents Dataism as a potential successor to humanism, one that sees humans as merely tools for creating a more complex data-processing system – the Internet-of-All-Things.
