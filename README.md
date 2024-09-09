@@ -1,6 +1,6 @@
 # Futurismo Tropical
-![Recife em 2050]("Recife em 2050.jpg")
 
+![Recife em 2050](https://github.com/user-attachments/assets/13f427aa-c513-4f93-a9d6-d291f066afb5)
 
 ## Autores
 Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo CIn/UFPE. Email: ernj@cin.ufpe.br 
@@ -117,6 +117,7 @@ Scenario planning explores a range of **plausible future scenarios**, including 
 
 * **Subjective:**  Scenarios are based on subjective judgments and assumptions about the future. 
 * **Complex:**  Developing and analyzing multiple scenarios can be a complex and time-consuming process.
+  
 ## "The Singularity"
 
 Drawing from both "Superintelligence" and "The Singularity is Nearer" by Ray Kurzweil, the singularity is a hypothetical future point in time where artificial intelligence (AI) surpasses human intelligence, leading to an unprecedented and transformative period of rapid technological advancement and societal change. 
@@ -137,6 +138,24 @@ Here are some key characteristics of the singularity as described by Kurzweil:
 * **Control Problem:**  Perhaps the most significant challenge is the "control problem" – how to ensure that superintelligent AI remains aligned with human values and doesn't pose an existential threat.  This requires developing robust control mechanisms and aligning AI with beneficial purposes.
 
 The singularity, as Kurzweil envisions it, is a profound and potentially transformative event. Understanding its potential implications—both positive and negative—is crucial for navigating the coming decades and shaping a future where humanity thrives alongside advanced artificial intelligence. 
+
+### Metafóra do "Oceano da Consciência". 
+
+In "Homo Deus," Harari uses the metaphor "The Ocean of Consciousness" to describe the vast and largely unexplored realm of **mental states and subjective experiences**. He argues that just as the spectrum of light and sound extends far beyond what humans can perceive, so too does the spectrum of consciousness likely encompass a vast range of possibilities beyond our limited human experience.
+
+Here are the key points of Harari's concept:
+
+1. **Limited Human Exploration:**  Science, particularly psychology, has traditionally focused on two limited areas of consciousness: the sub-normative (mental illnesses) and the WEIRD (Western, Educated, Industrialised, Rich, and Democratic).  This focus on a narrow subset of human experiences has given us a skewed and incomplete picture of the full potential of consciousness.
+
+2. **A Spectrum of Possibilities:**  Harari suggests that there might be an infinite variety of mental states that no human has ever experienced, potentially including states of expanded awareness, heightened perception, altered states of consciousness, and even forms of consciousness that we cannot currently comprehend.
+
+3. **The Example of Animal Consciousness:**  He uses the example of animals like bats and whales, which have sensory and cognitive abilities vastly different from ours, to illustrate the limitations of our human-centric view of consciousness. He suggests that these animals might experience the world in ways that are completely alien to us, accessing parts of the "Ocean of Consciousness" that we are blind to.
+
+4. **The Potential of Technology:**  Harari speculates that in the future, technology might give us access to these unexplored realms of consciousness. Drugs, genetic engineering, brain-computer interfaces, and other technologies could potentially allow us to experience mental states beyond our current limitations, opening up vast new dimensions of subjective experience.
+
+5. **The Dataist Perspective:**  Harari connects this concept to the rise of Dataism, a new religion that sees the universe as a flow of data and values information processing above all else. Dataists, he argues, believe that human consciousness is limited and ultimately replaceable by superior electronic algorithms. They see humans as merely a stepping stone on the path to a more complex data-processing system, potentially one that encompasses the entire universe. 
+
+The "Ocean of Consciousness" metaphor challenges us to recognize the limitations of our current understanding of the mind and to consider the possibility that there are vast realms of subjective experience that we have yet to explore. It suggests that the future of consciousness may be far more diverse and expansive than we can currently imagine, potentially shaped by both the evolution of our own brains and the development of powerful new technologies. 
 
 ## Métodos de Aplicação do Futurismo
 
@@ -308,6 +327,33 @@ Here is a chapter-by-chapter summary of the two books, focusing on their core ar
 * **Chapter 14: The Strategic Picture:** Discusses long-term science and technology policy issues in relation to superintelligence, focusing on differential technological development, the person-affecting perspective, technology couplings, and the importance of international collaboration.
 * **Chapter 15: Crunch Time:** Concludes by urging a focus on urgent and important problems, especially those related to the control problem, and on building a strong foundation of expertise and resources to meet the challenges of the coming intelligence explosion.
 
+### Yuval Harari
+#### "Homo Deus: A Brief History of Tomorrow":
+
+**Part I: Homo Sapiens Conquers the World**
+
+* **Chapter 1: The New Human Agenda:** Harari sets the stage by arguing that for the first time in history, humanity is no longer primarily focused on survival.  Famine, plague, and war, once existential threats, have become manageable challenges. He proposes that the new human agenda will be driven by the pursuit of immortality, happiness, and divinity, fueled by the unprecedented power of science and technology.
+* **Chapter 2: The Anthropocene:**  Harari explores humanity's dominance over the planet in the Anthropocene, the geological epoch marked by our significant impact on the global ecosystem. He argues that humans have become the dominant force shaping the planet's future, displacing natural selection with intelligent design and expanding into the inorganic realm.
+* **Chapter 3: The Human Spark:** The chapter examines the justification for human dominance and the concept of human exceptionalism. Harari deconstructs traditional arguments for human superiority, challenging the idea of a unique soul or inherent superiority over animals. He argues that human power stems from our ability to cooperate flexibly in large numbers, facilitated by our unique capacity for creating and believing in intersubjective realities – stories about gods, nations, money, and corporations. 
+
+**Part II: Homo Sapiens Gives Meaning to the World**
+
+* **Chapter 4: The Storytellers:** This chapter dives into the power of stories and their role in building and sustaining human societies. Harari argues that history revolves around webs of stories that create meaning and enable large-scale cooperation. He examines how these stories have evolved over time, from animist myths to theist religions, and finally to humanist narratives.
+* **Chapter 5: The Odd Couple:** Harari explores the complex relationship between science and religion, arguing that they are not necessarily enemies but can coexist and even cooperate. He presents science as a quest for power and religion as a source of order and legitimacy, highlighting how they have historically formed a powerful alliance. 
+* **Chapter 6: The Modern Covenant:** This chapter examines the central deal of modernity, where humans exchange meaning for power.  He argues that modern culture rejects the idea of a grand cosmic plan, embracing the pursuit of power through science and technology while seeking new sources of meaning in individual experience and human values. This is the foundation of humanism.
+* **Chapter 7: The Humanist Revolution:** Harari traces the rise of humanism as the dominant religion of the modern world, focusing on its three main branches: liberal humanism, socialist humanism, and evolutionary humanism. He explores their contrasting interpretations of human experience and their struggles for dominance throughout the twentieth century.
+
+**Part III: Homo Sapiens Loses Control**
+
+* **Chapter 8: The Time Bomb in the Laboratory:** This chapter examines the challenges to liberalism posed by twenty-first-century science, particularly biotechnology and artificial intelligence. Harari argues that as technology progresses, humans![Tropical Futurism](https://github.com/user-attachments/assets/1b7b22a7-53c9-4f4a-a932-44abc07e9f18)
+ may lose their economic and military usefulness, leading to a decline in individual value and potentially resulting in a new hierarchy dominated by upgraded superhumans or algorithms. 
+* **Chapter 9: The Great Decoupling:**  Harari explores the potential decoupling of intelligence from consciousness, arguing that as AI develops, non-conscious but highly intelligent algorithms may surpass human capabilities. This raises questions about the future of work, the relevance of human experience, and the very definition of intelligence.
+* **Chapter 10: The Ocean of Consciousness:** The chapter explores the emerging religion of Dataism, which sees the universe as a flow of data and values information processing above all else.  Harari presents Dataism as a potential successor to humanism, one that sees humans as merely tools for creating a more complex data-processing system – the Internet-of-All-Things.
+* **Chapter 11: The Data Religion:** This chapter delves deeper into the implications of Dataism, examining its potential to reshape our understanding of life, intelligence, and the future of humanity. Harari explores the ethical and philosophical implications of a data-driven world, where algorithms may make many of our decisions and where the value of human experience might be fundamentally redefined.
+
+"Homo Deus" offers a thought-provoking and challenging exploration of the future of humankind. It urges us to consider the potential consequences of our current trajectories and to carefully examine our values and assumptions as we enter an era of unprecedented technological power. 
+
+
 ### Ray Kurzweil
 #### **The Singularity is Nearer: When We Merge with AI**
 
@@ -343,9 +389,10 @@ Here's a breakdown of the key elements:
 * **Social and Political Factors:** The model focuses heavily on technological advancements and doesn't adequately account for the complex interplay of social, political, and economic factors that can influence the pace and direction of progress.
 * **Ethical Considerations:** While Kurzweil acknowledges the potential risks associated with uncontrolled AI development, his focus is primarily on technological feasibility and doesn't fully address the ethical considerations and potential societal impacts of these advancements.
 
-**Overall, Kurzweil's approach to future forecasting is a powerful tool for understanding the potential for rapid technological advancement. However, it's essential to recognize its limitations and consider other factors that might influence the future. **
+** Overall, Kurzweil's approach to future forecasting is a powerful tool for understanding the potential for rapid technological advancement. However, it's essential to recognize its limitations and consider other factors that might influence the future. **
 
 ## Colabore com o Projeto
 
 Clone esse repositório, acrescente suas sugestões e faça um push. Ou apenas deixe suas sugestões e idéias nesse repositório ou envie-as a esse email. 
 
+![Tropical Futurism](https://github.com/user-attachments/assets/4d4114bc-48a4-4ba7-89d9-fee6eb2d7e34)
