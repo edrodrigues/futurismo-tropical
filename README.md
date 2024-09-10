@@ -1,6 +1,6 @@
 # Futurismo Tropical
 
-![Recife em 2050](https://github.com/user-attachments/assets/13f427aa-c513-4f93-a9d6-d291f066afb5)
+![Mindmap Futurismo Tropical](https://github.com/user-attachments/assets/0803952e-7ac8-4b22-aeaf-f41401dee8eb)
 
 ## Sobre
 
