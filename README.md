@@ -12,11 +12,15 @@ Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo C
 
 1) Baixamos os PDFs dos seguintes livros: 
 
-DIAMANDIS, P. H.; KOTLER, S. Bold: How to Go Big, Create Wealth, and Impact the World. New York: Simon & Schuster, 2015.
-DIAMANDIS, P. H.; KOTLER, S. Abundance: The Future is Better Than You Think. New York: Free Press, 2012.
-KURZWEIL, R. The Singularity is Nearer: When We Merge with AI. New York: Viking, 2024.
-BOSTROM, N. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press, 2014.
-HARARI, Y. N. Homo Deus: A Brief History of Tomorrow. Toronto: Signal, 2016.
+- DIAMANDIS, P. H.; KOTLER, S. Bold: How to Go Big, Create Wealth, and Impact the World. New York: Simon & Schuster, 2015.
+
+- DIAMANDIS, P. H.; KOTLER, S. Abundance: The Future is Better Than You Think. New York: Free Press, 2012.
+
+- KURZWEIL, R. The Singularity is Nearer: When We Merge with AI. New York: Viking, 2024.
+
+- BOSTROM, N. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press, 2014.
+
+- HARARI, Y. N. Homo Deus: A Brief History of Tomorrow. Toronto: Signal, 2016.
 
 2) Criamos resumos dos livros e fizemos prompts de conceitos chaves sobre Futurismo usando a LLM do Gemini modelo 1.5 Pro. 
 3) Adicionamos o resultado de todas as prompts em ordem no Claude, onde foram traduzidas para Português e foi criado o artefato do website que você acessa agora. 
