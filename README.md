@@ -24,7 +24,8 @@ Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo C
 
 2) Criamos resumos dos livros e fizemos prompts de conceitos chaves sobre Futurismo usando a LLM do Gemini modelo 1.5 Pro. 
 3) Adicionamos o resultado de todas as prompts em ordem no Claude, onde foram traduzidas para Português e foi criado o artefato do website que você acessa agora. 
-4) O projeto pode ser acessado e está disponível para colaboração nesse site: 
+4) O projeto pode ser acessado nesse site: https://futurismo-tropical.vercel.app/ 
+5) Estamos em busca de colaboradores o repositório pode ser encontrado nesse site: https://github.com/edrodrigues/futurismo-tropical 
 
 ## Conceitos Básicos
 
