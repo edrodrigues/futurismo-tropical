@@ -7,6 +7,7 @@
 Projeto Open Source para "tropicalizar" o conhecimento sobre Futurismo para o público brasileiro e começar a desenvolver o campo do "futurismo à brasileira", ou futurismo tropical. 
 ### Autores
 Edmilson Rodrigues do Nascimento Junior, MsC em Ciências da Computação pelo CIn/UFPE. Email: ernj@cin.ufpe.br 
+Éverson Filipe Campos da Silva Moura, Bach em Ciência da Computação pela UniFavip Wyden. Email: eversonfilipe124@gmail.com
 
 #### Método de elaboração 
 
